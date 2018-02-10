@@ -1,0 +1,5 @@
+main: gvlfm78.plugin.OldCombatMechanics.OCMMain
+name: 1.8PvP
+version: 2.0.0
+authors: [gvlfm78, Rayzr522, ursinn]
+load: POSTWORLD
